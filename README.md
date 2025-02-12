@@ -1,8 +1,5 @@
 # Meteor Archive
 
-> [!NOTE]
-> This is not currently being actively worked on, as I have lost motivation.
-
 A Meteor Client archive. *(and Starscript, Orbit, NBT, Meteor Baritone, & Discord Ipc)*
 
 For people who don't want to compile them or find them.
